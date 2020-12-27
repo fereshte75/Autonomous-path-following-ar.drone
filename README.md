@@ -15,4 +15,5 @@ Target_approach.js:  is the code I used to have the drone fly streight to a targ
 Path_following.js: is the final code for the path_following that includes detecting tags and going from one to another. For landing, it requires intervention with the land.js file. 
 
 Videos of using this code can be found in this link: https://www.youtube.com/playlist?list=PLMgMMhA1mz0TW52uztdYwuiSyRUfi9Xbp
+
 My thesis is published in this link: http://hdl.handle.net/10589/166702
